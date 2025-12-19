@@ -9,7 +9,8 @@ A new Flutter project.
 
 ## Praktikum 4 : basic widget
 
-![alt text](image-4.png)
+<img src="image-4.jpg" alt="drawing" height = "465" width="459"/>
+
 
 Menambahkan kode untuk basic image widget
 <br>
