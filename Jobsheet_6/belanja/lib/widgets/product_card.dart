@@ -24,16 +24,7 @@ class ProductCard extends StatelessWidget {
                 borderRadius: BorderRadius.vertical(top: Radius.circular(8)),
                 child: Hero(
                   tag: item.name,
-                  child: Image.asset(
-                    item.image,
-                    fit: BoxFit.cover,
-                    errorBuilder: (context, error, stackTrace) {
-                      print('Error loading image: $error');
-                      return Center(
-                        child: Text('Failed to load: ${item.image}'),
-                      );
-                    },
-                  ),
+                  child: Image.asset(item.image, fit: BoxFit.cover),
                 ),
               ),
             ),

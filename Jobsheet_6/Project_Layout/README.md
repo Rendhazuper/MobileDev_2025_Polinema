@@ -1,12 +1,19 @@
 # Laporan Praktikum 6
+<div align ="center">
+<img src = 'Politeknik Negeri Malang.png' height = 180 widht = 480 >
+<br>
 Nama    : Rendha Putra Rahmadya
+<br>
 Kelas   : TI - 3E
+<br>
 NIM     : 2341720010
+<br>
 Absen   : 26
+</div>
 
 ## Praktikum 1 : Layout dan Navigasi
 
-Menambahkan kode berikut 
+Menambahkan 
 ![alt text](image.png)
 
 Dengan hasil seperti berikut 
@@ -29,3 +36,12 @@ Penambahan text section
 ![alt text](image-6.png)
 
 
+## Praktikum 5 Membangun Navigasi di flutter
+
+1. Membuat project baru bernama "belanja"
+2. mengimplementasi go route untuk routing navigasi 
+3. page home <br>
+<img src = '../belanja/image/Screenshot1.png' height = 910 width = 480>
+
+4. jika salah satu item ditekan maka akan masuk ke detail item
+<img src = '../belanja/image/Screenshot2.png' height = 910 width = 480>

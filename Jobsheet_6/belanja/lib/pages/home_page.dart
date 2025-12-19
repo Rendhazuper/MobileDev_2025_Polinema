@@ -8,14 +8,14 @@ class HomePage extends StatelessWidget {
     Item(
       name: 'Sugar',
       price: 5000,
-      image: 'assets/sugar.png', // Changed from 'sugar.png'
+      image: 'image/sugar.png',
       stock: 10,
       rating: 4.5,
     ),
     Item(
       name: 'Salt',
       price: 20000,
-      image: 'assets/salt.png', // Changed from 'salt.png'
+      image: 'image/salt.png',
       stock: 5,
       rating: 4.0,
     ),
