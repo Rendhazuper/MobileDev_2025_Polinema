@@ -15,14 +15,21 @@ A new Flutter project.
 Menambahkan kode untuk basic image widget
 <br>
 
-![alt text](image-5.png)
+
+<img src="image-5.png" alt="drawing" height = "465" width="459"/>
+
 
 ## Praktikum 5 : Menerapkan Widget Material Design dan iOS Cupertino
 
-![alt text](image-6.png)
+<img src="image-6.png" alt="drawing" height = "465" width="459"/>
+
 
 Textfield <br>
-![alt text](image-7.png)
+
+<img src="image-7.png" alt="drawing" height = "465" width="459"/>
+
 
 DatePicker <br>
-![alt text](image-8.png)
+
+<img src="image-8.png" alt="drawing" height = "465" width="459"/>
+
