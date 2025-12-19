@@ -12,6 +12,7 @@ A new Flutter project.
 ![alt text](image-4.png)
 
 Menambahkan kode untuk basic image widget
+<br>
 
 ![alt text](image-5.png)
 
@@ -19,8 +20,8 @@ Menambahkan kode untuk basic image widget
 
 ![alt text](image-6.png)
 
-Textfield 
+Textfield <br>
 ![alt text](image-7.png)
 
-DatePicker
+DatePicker <br>
 ![alt text](image-8.png)
